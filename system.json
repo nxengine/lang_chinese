@@ -8,6 +8,14 @@
   "Reset" : "重启游戏",
   "Resume" : "恢复游戏",
 
+  "Graphics": "视频设置",
+  "Sound": "音频设置",
+  "SFX volume: ": "SFX卷: ",
+  "Music volume: ": "BGM卷: ",
+  "Bind keys": "更改密钥分配",
+  "Strafing: ": "倒退: ",
+  "Strafe": "倒退",
+
   "Resolution: ": "分辨率: ",
   "Fullscreen: ": "全屏幕: ",
   "On": "开启",
